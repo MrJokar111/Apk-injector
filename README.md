@@ -1,4 +1,4 @@
-## How To Use InjectAPK
+## How To Use 
 ```
 sudo apt update
 sudo apt install git
