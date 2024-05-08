@@ -2,8 +2,8 @@
 ```
 sudo apt update
 sudo apt install git
-git clone https://github.com/mehedishakeel/InjectAPK.git
-cd InjectAPK
-sudo chmod +x Injectapk.sh
+git clone https://github.com/MrJokar111/Apk-injector
+cd Apk-injector
+sudo chmod +x Apk-injector.sh
 ./Apk-injector.sh
 ```
